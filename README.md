@@ -1,6 +1,6 @@
 # Jeffesson Gomes
 
-Programador FullStack Javascript (React, React Native, NodeJS).
+Programador Javascript (React).
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeffesson-gomes-de-almeida-2b36911aa//)
 
